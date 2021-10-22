@@ -1,0 +1,38 @@
+/* rule -set #1: All the li items withing the css-classes class will have a green font. */
+.css-classes{
+    color: green;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h1{
+    border:2px solid rgb(18, 179, 179);
+        margin-top: 50 px;
+        margin-right: 250px;
+        margin-bottom: 200px;
+        margin-left: 200px;
+    padding: 20px 20px 20px 40px;
+}
+.css-classes{
+    font-family: Arial, helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* 1 */
+body{
+    background-color: lightgray;
+}
+
+.css-classes{
+    width: 150px;
+    height: 50%;
+}
+.css-classes{
+    margin: 5px;
+    border-style: solid;
+    border-color: black;
+}
